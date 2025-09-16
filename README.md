@@ -6,9 +6,8 @@ A top-down action game for **Brackeys Game Jam 2025.2** built in **Unreal Engine
   <img src="docs/normal.png" width="49%" alt="Game visuals"/>
   <img src="docs/zone.png" width="49%" alt="Shrinked zone"/>
 </p>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="docs/fight.gif" alt="Combat Preview" />
-</div>
+
+![Combat Preview](docs/fight.gif)
 
 ---
 
